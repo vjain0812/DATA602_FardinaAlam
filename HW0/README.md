@@ -98,7 +98,7 @@ NOTE THAT: Creating a virtual environment for PyTorch (or any other Python packa
 
 * https://docs.python.org/3/tutorial/venv.html
 * https://gist.github.com/Ravi2712/47f070a6578153d3caee92bb67134963
-
+---
 ### BONUS OPTIONAL TASK: (5 points)
 
 Docker
@@ -129,7 +129,7 @@ Using VSCode is not required (I don't use it), but if you'd like to use Jupyter 
 
 You should only try this option if you are comfortable with the steps described in the `readme.md` in the above repo. It's completely fine if those instructions do not seem clear to you, but you probably shouldn't use this option for this course.
 
-
+---
 ### Assignment Deliverables: 
 
 * ##### 1. Complete the function in the `HW0 Assignment` Notebook as instructed in the notebook (10 points). 
