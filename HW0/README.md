@@ -136,20 +136,24 @@ Complete the function in the `HW0 Assignment` Notebook as instructed in the note
 
 Additionally, you need to include the following in the HW0 Assignment Notebook:
 
-* Add Screenshots (06 points): Include screenshots in the HW0 Assignment.ipynb file that demonstrate the successful setup of:
+* ##### Provide GitHub Repository URL (10 points):
+ Include the URL of your public GitHub repository in the HW0 Assignment.ipynb file. This repository should include:
+  - why_interested.txt file
+  - A correctly configured .gitignore file to exclude data.DAT
+
+* ##### Provide GitHub Pages URL (04 points):
+  - Include the URL of your GitHub Pages site in your HW0 Assignment.ipynb file.
+
+* ##### Add Screenshots (06 points):
+  Include screenshots in the HW0 Assignment.ipynb file that demonstrate the successful setup of:
   - Python: Run some Python code and show the output.
   - Google Colab: : Run any code and show the output.
   - PyTorch: Include the script output showing the PyTorch version and GPU availability.
 
-* Provide GitHub Repository URL (10 points):
- Include the URL of your public GitHub repository in the HW0 Assignment.ipynb file. This repository should include:
-- why_interested.txt file
-- A correctly configured .gitignore file to exclude data.DAT
-
-* Provide GitHub Pages URL (04 points): include the URL of your GitHub Pages site in your HW0 Assignment.ipynb file.
+f you are completing the optional bonus task, you should also provide relevant screenshots at the end of the HW0 Assignment Notebook.
 
 
-### Finally, Upload the Notebook: Upload the completed HW0 Assignment.ipynb file to Gradescope.
+### Finally, Upload the Notebook: Rename the notebook "HW0 Assignment.ipynb" to "HW0 Assignment_DATA602_YourLastName.ipynb" and upload the completed .ipynb file to Gradescope.
 
 
 WARNING: You should ensure that your `ipynb` file is your _completed_ assignment. A common error case is that students submit the original `ipynb` and not their updated one! This can happen if you're not loading the docker container correctly and so the work does not save to your host machine.
