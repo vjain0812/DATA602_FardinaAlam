@@ -101,7 +101,7 @@ NOTE THAT: Creating a virtual environment for PyTorch (or any other Python packa
 ---
 ### BONUS OPTIONAL TASK: (5 points)
 
-Docker
+#### Docker
 
 
 Using Docker is not required (I don't use it). Docker is a software technology providing `containers`, that provides an additional layer of abstraction and automation of operating-system-level `virtualization` on Windows and Linux. Here is a nice introductory blog post that describes virtualization and containers: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b. Briefly speaking, a virtual machine (VM) is an emulation of an (`guest`) operating system on a computer (with potentially a different `host` operating system). Linux is the most common guest OS that is used, especially since Apple and Microsoft make it difficult to emulate their OSes. `Containers` look like a VM, but share the host kernel (if possible) to be more efficient, both in terms of the memory used and the slowdown.
@@ -123,7 +123,7 @@ Docker is perhaps the most popular container technology at this time, and is wid
 - Once everything is initialized and the notebook starts, you can connect it to by opening your web browser and going to: http://localhost:8888/tree?token=279fb5e0fc0f240a90f913e7b9c9c068f36543a7d9544663  --- the `token` will be different for you. Look for it in the output of the command above.
 
 
-### VSCode (OPTIONAL TASK)
+##### VSCode (OPTIONAL)
 
 Using VSCode is not required (I don't use it), but if you'd like to use Jupyter Notebooks from within the VSCode IDE, you can use this template repository made by a Microsoft employee: [ml-devcontainer](https://github.com/jlorich/ml-devcontainer). This requires Docker and VSCode to be installed, but will allow you skip using a web-browser for interacting with your Notebooks.
 
