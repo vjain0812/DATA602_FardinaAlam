@@ -99,7 +99,9 @@ NOTE THAT: Creating a virtual environment for PyTorch (or any other Python packa
 * https://docs.python.org/3/tutorial/venv.html
 * https://gist.github.com/Ravi2712/47f070a6578153d3caee92bb67134963
 
-### BONUS OPTIONAL TASK: Docker
+### BONUS OPTIONAL TASK: (5 points)
+
+Docker
 
 
 Using Docker is not required (I don't use it). Docker is a software technology providing `containers`, that provides an additional layer of abstraction and automation of operating-system-level `virtualization` on Windows and Linux. Here is a nice introductory blog post that describes virtualization and containers: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b. Briefly speaking, a virtual machine (VM) is an emulation of an (`guest`) operating system on a computer (with potentially a different `host` operating system). Linux is the most common guest OS that is used, especially since Apple and Microsoft make it difficult to emulate their OSes. `Containers` look like a VM, but share the host kernel (if possible) to be more efficient, both in terms of the memory used and the slowdown.
@@ -130,19 +132,21 @@ You should only try this option if you are comfortable with the steps described 
 
 ### Assignment Deliverables: 
 
-Complete the function in the `Project 0 Assignment` Notebook as instructed in the notebook. Additionally, you need to include the following in the Project 0 Assignment Notebook:
+Complete the function in the `Project 0 Assignment` Notebook as instructed in the notebook (10 points). 
 
-* Add Screenshots: Include screenshots in the Project 0 Assignment.ipynb file that demonstrate the successful setup of:
+Additionally, you need to include the following in the Project 0 Assignment Notebook:
+
+* Add Screenshots (06 points): Include screenshots in the Project 0 Assignment.ipynb file that demonstrate the successful setup of:
   - Python: Run some Python code and show the output.
   - Google Colab: : Run any code and show the output.
   - PyTorch: Include the script output showing the PyTorch version and GPU availability.
 
-* Provide GitHub Repository URL:
+* Provide GitHub Repository URL (10 points):
  Include the URL of your public GitHub repository in the Project 0 Assignment.ipynb file. This repository should include:
 - why_interested.txt file
 - A correctly configured .gitignore file to exclude data.DAT
 
-* Provide GitHub Pages URL: If you have set up a GitHub Pages site, include the URL of your GitHub Pages site in your Project 0 Assignment.ipynb file.
+* Provide GitHub Pages URL (04 points): include the URL of your GitHub Pages site in your Project 0 Assignment.ipynb file.
 
 
 ### Finally, Upload the Notebook: Upload the completed Project 0 Assignment.ipynb file to Gradescope.
