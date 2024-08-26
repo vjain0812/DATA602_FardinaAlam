@@ -60,7 +60,7 @@ The documentation on git is available here (https://git-scm.com/docs). Please no
 
 Create a GitHub Pages site for your repository. Follow the instructions here (https://git-scm.com/docs) to set up a .github.io page for your repository.
 
--- 
+---
 ### 2. Installing Python and Jupyter/IPython
 
 We will be using Python for most of the assignments. Python is easy to pick up, and we will also provide skeleton code for most of the assignments. 
@@ -121,14 +121,31 @@ Docker is perhaps the most popular container technology at this time, and is wid
 - Once everything is initialized and the notebook starts, you can connect it to by opening your web browser and going to: http://localhost:8888/tree?token=279fb5e0fc0f240a90f913e7b9c9c068f36543a7d9544663  --- the `token` will be different for you. Look for it in the output of the command above.
 
 
-### VSCode (OPTIONAL TASL)
+### VSCode (OPTIONAL TASK)
 
 Using VSCode is not required (I don't use it), but if you'd like to use Jupyter Notebooks from within the VSCode IDE, you can use this template repository made by a Microsoft employee: [ml-devcontainer](https://github.com/jlorich/ml-devcontainer). This requires Docker and VSCode to be installed, but will allow you skip using a web-browser for interacting with your Notebooks.
 
 You should only try this option if you are comfortable with the steps described in the `readme.md` in the above repo. It's completely fine if those instructions do not seem clear to you, but you probably shouldn't use this option for this course.
 
+
 ### Assignment Deliverables: 
 
-Complete the function in `Project 0 Assignment` Notebook. In addition to completing the function, add screenshots that demonstrate the successful setup of Python, Jupyter Notebook, Google Colab, Github Page (with copy the github link) and PyTorch in the notebook. Upload the completed Project 0 Assignment.ipynb file to Gradescope.
+Complete the function in the `Project 0 Assignment` Notebook as instructed in the notebook. Additionally, you need to include the following in the Project 0 Assignment Notebook:
+
+* Add Screenshots: Include screenshots in the Project 0 Assignment.ipynb file that demonstrate the successful setup of:
+  - Python: Run some Python code and show the output.
+  - Google Colab: : Run any code and show the output.
+  - PyTorch: Include the script output showing the PyTorch version and GPU availability.
+
+* Provide GitHub Repository URL:
+ Include the URL of your public GitHub repository in the Project 0 Assignment.ipynb file. This repository should include:
+- why_interested.txt file
+- A correctly configured .gitignore file to exclude data.DAT
+
+* Provide GitHub Pages URL: If you have set up a GitHub Pages site, include the URL of your GitHub Pages site in your Project 0 Assignment.ipynb file.
+
+
+### Finally, Upload the Notebook: Upload the completed Project 0 Assignment.ipynb file to Gradescope.
+
 
 WARNING: You should ensure that your `ipynb` file is your _completed_ assignment. A common error case is that students submit the original `ipynb` and not their updated one! This can happen if you're not loading the docker container correctly and so the work does not save to your host machine.
