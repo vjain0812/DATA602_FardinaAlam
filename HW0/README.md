@@ -141,8 +141,8 @@ Additionally, you need to include the following in the HW0 Assignment Notebook:
   - why_interested.txt file
   - A correctly configured .gitignore file to exclude data.DAT
 
-* ##### 3. Provide GitHub Pages URL (04 points):
-  - Include the URL of your GitHub Pages site in your HW0 Assignment.ipynb file.
+* ##### 3. Provide GitHub Page URL (04 points):
+  - Include the URL of your GitHub Page site in your HW0 Assignment.ipynb file.
 
 * ##### 4. Add Screenshots (06 points):
   Include screenshots in the HW0 Assignment.ipynb file that demonstrate the successful setup of:
@@ -152,6 +152,7 @@ Additionally, you need to include the following in the HW0 Assignment Notebook:
 
 If you are completing the optional bonus task, you should also provide relevant screenshots at the end of the HW0 Assignment Notebook.
 
+REMEMBER: Each screenshot must clearly show your name and ID. You can add this information manually. 
 
 #### Finally, Upload the Notebook: Rename the notebook "HW0 Assignment.ipynb" to "HW0 Assignment_DATA602_YourLastName.ipynb" and upload the completed .ipynb file to Gradescope.
 
