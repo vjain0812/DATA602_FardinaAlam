@@ -132,19 +132,19 @@ You should only try this option if you are comfortable with the steps described 
 
 ### Assignment Deliverables: 
 
-Complete the function in the `HW0 Assignment` Notebook as instructed in the notebook (10 points). 
+* ##### 1. Complete the function in the `HW0 Assignment` Notebook as instructed in the notebook (10 points). 
 
 Additionally, you need to include the following in the HW0 Assignment Notebook:
 
-* ##### Provide GitHub Repository URL (10 points):
+* ##### 2. Provide GitHub Repository URL (10 points):
  Include the URL of your public GitHub repository in the HW0 Assignment.ipynb file. This repository should include:
   - why_interested.txt file
   - A correctly configured .gitignore file to exclude data.DAT
 
-* ##### Provide GitHub Pages URL (04 points):
+* ##### 3. Provide GitHub Pages URL (04 points):
   - Include the URL of your GitHub Pages site in your HW0 Assignment.ipynb file.
 
-* ##### Add Screenshots (06 points):
+* ##### 4. Add Screenshots (06 points):
   Include screenshots in the HW0 Assignment.ipynb file that demonstrate the successful setup of:
   - Python: Run some Python code and show the output.
   - Google Colab: : Run any code and show the output.
