@@ -101,7 +101,7 @@ NOTE THAT: Creating a virtual environment for PyTorch (or any other Python packa
 ---
 ### BONUS OPTIONAL TASK: (5 points)
 
-#### Docker
+#### Docker 
 
 
 Using Docker is not required (I don't use it). Docker is a software technology providing `containers`, that provides an additional layer of abstraction and automation of operating-system-level `virtualization` on Windows and Linux. Here is a nice introductory blog post that describes virtualization and containers: https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b. Briefly speaking, a virtual machine (VM) is an emulation of an (`guest`) operating system on a computer (with potentially a different `host` operating system). Linux is the most common guest OS that is used, especially since Apple and Microsoft make it difficult to emulate their OSes. `Containers` look like a VM, but share the host kernel (if possible) to be more efficient, both in terms of the memory used and the slowdown.
