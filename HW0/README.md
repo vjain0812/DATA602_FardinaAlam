@@ -150,10 +150,10 @@ Additionally, you need to include the following in the HW0 Assignment Notebook:
   - Google Colab: : Run any code and show the output.
   - PyTorch: Include the script output showing the PyTorch version and GPU availability.
 
-f you are completing the optional bonus task, you should also provide relevant screenshots at the end of the HW0 Assignment Notebook.
+If you are completing the optional bonus task, you should also provide relevant screenshots at the end of the HW0 Assignment Notebook.
 
 
-### Finally, Upload the Notebook: Rename the notebook "HW0 Assignment.ipynb" to "HW0 Assignment_DATA602_YourLastName.ipynb" and upload the completed .ipynb file to Gradescope.
+#### Finally, Upload the Notebook: Rename the notebook "HW0 Assignment.ipynb" to "HW0 Assignment_DATA602_YourLastName.ipynb" and upload the completed .ipynb file to Gradescope.
 
 
 WARNING: You should ensure that your `ipynb` file is your _completed_ assignment. A common error case is that students submit the original `ipynb` and not their updated one! This can happen if you're not loading the docker container correctly and so the work does not save to your host machine.
