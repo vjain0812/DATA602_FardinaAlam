@@ -1,4 +1,4 @@
-# Project 0: Computing Environment
+# HW0: Computing Environment
 
 ## Objective
 
@@ -92,7 +92,7 @@ import torch
 print("PyTorch Version: ", torch.__version__)
 print("GPU Available: ", torch.cuda.is_available())
 
-Run this script in both your local environment and Google Colab, then include the outputs as screenshots in your Project 0 Assignment.ipynb
+Run this script in both your local environment and Google Colab, then include the outputs as screenshots in your HW0 Assignment.ipynb
 
 NOTE THAT: Creating a virtual environment for PyTorch (or any other Python package) is highly recommended, though not strictly necessary. A virtual environment helps isolate your project's dependencies, ensuring that different projects do not interfere with each other. This is especially useful when working with different versions of libraries like PyTorch, TensorFlow, or others. HOWEVER, THIS IS TOTALLY YOUR CHOICE! Here are some links to check out how to create pythom virtual environment:
 
@@ -132,24 +132,24 @@ You should only try this option if you are comfortable with the steps described 
 
 ### Assignment Deliverables: 
 
-Complete the function in the `Project 0 Assignment` Notebook as instructed in the notebook (10 points). 
+Complete the function in the `HW0 Assignment` Notebook as instructed in the notebook (10 points). 
 
-Additionally, you need to include the following in the Project 0 Assignment Notebook:
+Additionally, you need to include the following in the HW0 Assignment Notebook:
 
-* Add Screenshots (06 points): Include screenshots in the Project 0 Assignment.ipynb file that demonstrate the successful setup of:
+* Add Screenshots (06 points): Include screenshots in the HW0 Assignment.ipynb file that demonstrate the successful setup of:
   - Python: Run some Python code and show the output.
   - Google Colab: : Run any code and show the output.
   - PyTorch: Include the script output showing the PyTorch version and GPU availability.
 
 * Provide GitHub Repository URL (10 points):
- Include the URL of your public GitHub repository in the Project 0 Assignment.ipynb file. This repository should include:
+ Include the URL of your public GitHub repository in the HW0 Assignment.ipynb file. This repository should include:
 - why_interested.txt file
 - A correctly configured .gitignore file to exclude data.DAT
 
-* Provide GitHub Pages URL (04 points): include the URL of your GitHub Pages site in your Project 0 Assignment.ipynb file.
+* Provide GitHub Pages URL (04 points): include the URL of your GitHub Pages site in your HW0 Assignment.ipynb file.
 
 
-### Finally, Upload the Notebook: Upload the completed Project 0 Assignment.ipynb file to Gradescope.
+### Finally, Upload the Notebook: Upload the completed HW0 Assignment.ipynb file to Gradescope.
 
 
 WARNING: You should ensure that your `ipynb` file is your _completed_ assignment. A common error case is that students submit the original `ipynb` and not their updated one! This can happen if you're not loading the docker container correctly and so the work does not save to your host machine.
