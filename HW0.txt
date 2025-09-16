@@ -1,0 +1,5 @@
+Why are you interested in taking DATA602?
+
+Well, because this course provides foundation to all the Data Science and ML concepts that are required to learn and grow in the field of Machine Learning.
+I aspire to be a Machine Learning Engineer/CTO in the distant future at a startup of my own and these fundamentals would carry me through this journey.
+In the near future I see myself working at a mid-to-big sized company at an entry level ML role. These basics would enable me to land that role and grow as an engineer.
